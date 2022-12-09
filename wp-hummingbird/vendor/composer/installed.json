@@ -1,0 +1,101 @@
+[
+    {
+        "name": "mixpanel/mixpanel-php",
+        "version": "2.7.0",
+        "version_normalized": "2.7.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mixpanel/mixpanel-php.git",
+            "reference": "f3a046fd392adba705870a3c1994f2614600658a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mixpanel/mixpanel-php/zipball/f3a046fd392adba705870a3c1994f2614600658a",
+            "reference": "f3a046fd392adba705870a3c1994f2614600658a",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.0"
+        },
+        "require-dev": {
+            "phpdocumentor/phpdocumentor": "2.9.*",
+            "phpunit/phpunit": "5.6.*"
+        },
+        "time": "2019-07-08T22:38:03+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "lib/Mixpanel.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "Mixpanel <dev@mixpanel.com>",
+                "homepage": "https://mixpanel.com/"
+            }
+        ],
+        "description": "The Official PHP library for Mixpanel",
+        "homepage": "https://mixpanel.com/help/reference/php",
+        "keywords": [
+            "mixpanel",
+            "mixpanel php"
+        ]
+    },
+    {
+        "name": "predis/predis",
+        "version": "v1.1.1",
+        "version_normalized": "1.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/nrk/predis.git",
+            "reference": "f0210e38881631afeafb56ab43405a92cafd9fd1"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/nrk/predis/zipball/f0210e38881631afeafb56ab43405a92cafd9fd1",
+            "reference": "f0210e38881631afeafb56ab43405a92cafd9fd1",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.9"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "~4.8"
+        },
+        "suggest": {
+            "ext-curl": "Allows access to Webdis when paired with phpiredis",
+            "ext-phpiredis": "Allows faster serialization and deserialization of the Redis protocol"
+        },
+        "time": "2016-06-16T16:22:20+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Predis\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Daniele Alessandri",
+                "email": "suppakilla@gmail.com",
+                "homepage": "http://clorophilla.net"
+            }
+        ],
+        "description": "Flexible and feature-complete Redis client for PHP and HHVM",
+        "homepage": "http://github.com/nrk/predis",
+        "keywords": [
+            "nosql",
+            "predis",
+            "redis"
+        ]
+    }
+]

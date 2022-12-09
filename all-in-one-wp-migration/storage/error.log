@@ -1,0 +1,495 @@
+Dec 07 2022 03:32:34
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Dec 07 2022 03:32:34
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Dec 07 2022 03:32:34
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Dec 07 2022 03:32:34
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Dec 07 2022 03:32:34
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Dec 07 2022 03:32:34
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Dec 07 2022 03:32:35
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Dec 07 2022 03:32:35
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Dec 07 2022 03:32:35
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Dec 07 2022 03:32:35
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Dec 07 2022 03:32:35
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:42
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:14:54
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\formatting.php","Line":2785}
+
+Dec 08 2022 03:15:01
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Dec 08 2022 03:15:06
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Dec 08 2022 03:15:06
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Dec 08 2022 03:15:06
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Dec 08 2022 03:15:06
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Dec 08 2022 03:15:06
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Dec 08 2022 03:15:06
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Dec 08 2022 03:15:07
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Dec 08 2022 03:15:07
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Dec 08 2022 03:15:07
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Dec 08 2022 03:15:07
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Dec 08 2022 03:15:07
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Dec 08 2022 03:15:07
+{"type":2,"message":"Attempt to read property \"ID\" on null","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\themes\\fdpi\\functions\\general-wordpress.php","line":16}
+
+Dec 08 2022 03:15:08
+{"type":2,"message":"Attempt to read property \"ID\" on null","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\themes\\fdpi\\functions\\general-wordpress.php","line":16}
+
+Dec 08 2022 08:35:49
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:35:57
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:35:57
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:35:57
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:35:58
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:35:58
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Dec 08 2022 08:35:58
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:35:59
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:00
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:01
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:02
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:04
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:06
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:08
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:08
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:09
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:11
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:11
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:14
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:18
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:21
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:22
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:25
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:28
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:32
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:33
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:37
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:41
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:42
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:45
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:49
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:52
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:53
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:36:57
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:01
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:03
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:05
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:09
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:13
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:13
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:17
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:21
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:24
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:25
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:28
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:29
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:33
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:37
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:38
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:41
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:45
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:49
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:49
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:53
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:57
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:37:59
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:01
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:05
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:09
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:10
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:13
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:15
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:16
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:16
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:17
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Dec 08 2022 08:38:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Dec 08 2022 08:38:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Dec 08 2022 08:38:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Dec 08 2022 08:38:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Dec 08 2022 08:38:17
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Dec 08 2022 08:38:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Dec 08 2022 08:38:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Dec 08 2022 08:38:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Dec 08 2022 08:38:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Dec 08 2022 08:38:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Dec 08 2022 08:38:18
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:18
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:19
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
+Dec 08 2022 08:38:21
+{"type":8192,"message":"Optional parameter $id declared before required parameter $field is implicitly treated as a required parameter","file":"D:\\XAMPPv25\\htdocs\\newdesign\\wp-content\\plugins\\advanced-custom-fields-pro\\pro\\fields\\class-acf-field-gallery.php","line":296}
+
